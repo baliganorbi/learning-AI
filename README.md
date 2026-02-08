@@ -4,8 +4,9 @@ A collection of Jupyter Notebooks exploring various AI-related topics and techni
 
 ## Notebooks
 
-- **local-ollama.ipynb** - Exploring local LLM deployment and usage with Ollama
-- **google-genai.ipynb** - Working with Google's GenAI and related tools
+- **llamaindex-agents.ipynb** - Exploring LlamaIndex agent workflows including FunctionAgent, AgentWorkflow, built-in tools integration, and context management for maintaining state between runs
+- **llamaindex-google-genai.ipynb** - Working with Google's GenAI and LlamaIndex integration
+- **llamaindex-local-ollama.ipynb** - Exploring local LLM deployment and usage with Ollama and LlamaIndex
 
 ## Getting Started
 
