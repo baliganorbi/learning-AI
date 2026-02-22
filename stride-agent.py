@@ -117,7 +117,7 @@ async def main():
     # Instantiate the workflow (timeout in seconds)
     workflow = StrideThreatModeler(timeout=120, verbose=False)
 
-    draw_all_possible_flows(workflow, filename="stride_workflow.html")
+    # draw_all_possible_flows(workflow, filename="stride_workflow.html")
     
     # Run the workflow by passing data into the implicit StartEvent
     result = await workflow.run(
