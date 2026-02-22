@@ -77,7 +77,6 @@ Thumbs.db
 # Local testing
 .local/
 *.db
-*.sqlite3
 
 # Model weights and large files (optional, uncomment if needed)
 *.h5
